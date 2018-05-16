@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ITISMobileApp</string>
+    <string name="title_subjects">Дисциплины</string>
+    <string name="title_timetable">Расписание</string>
+    <string name="title_notifications">Уведомления</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
